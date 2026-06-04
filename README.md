@@ -35,6 +35,12 @@ Leadership required a simple and intuitive dashboard that could be used during m
 
 ## Dashboard Structure
 
+## Data Model 
+
+The dashboard follows a star-schema-inspired data model to support efficient filtering, target tracking, and performance analysis.
+
+
+
 ### Page 1: Business Performance Overview
 
 Provides a high-level view of business health and performance.
