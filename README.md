@@ -39,7 +39,7 @@ Leadership required a simple and intuitive dashboard that could be used during m
 
 The dashboard follows a star-schema-inspired data model to support efficient filtering, target tracking, and performance analysis.
 
-![Data Model](https://github.com/akhileshraut/Superstore-Sales-Analytics/blob/c088d5a6533f5ee33b764c6bd001b5f6af885829/Images/page1.PNG)
+![Data Model](https://github.com/akhileshraut/Superstore-Sales-Analytics/blob/58628b83f8a5608f55f75db4913920f8323396d5/Images/Data%20Model.PNG)
 
 ### Page 1: Business Performance Overview
 
