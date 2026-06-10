@@ -70,6 +70,7 @@ Provides a high-level view of business health and performance.
 * Dynamic Titles & Labels
 * Interactive Filtering
 
+![Page 1 Dashboard](https://github.com/akhileshraut/Procurement-Data-Analytics/blob/6be4acf7825e7a3e409f558dd34d88860d2a910d/Images/page1.PNG)
 ---
 
 ### Page 2: Targets & Business Risks
